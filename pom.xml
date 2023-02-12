@@ -10,7 +10,7 @@
 
 	<groupId>io.github.bernaozgen</groupId>
 	<artifactId>common</artifactId>
-	<version>1.7.5</version>
+	<version>1.8.5</version>
 	<properties>
 		<java.version>17</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
